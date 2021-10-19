@@ -1,0 +1,14 @@
+C:\Users\ZParr\source\repos\CircleApp\CircleApp\obj\Debug\netcoreapp3.1\CircleApp.csproj.AssemblyReference.cache
+C:\Users\ZParr\source\repos\CircleApp\CircleApp\obj\Debug\netcoreapp3.1\CircleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZParr\source\repos\CircleApp\CircleApp\obj\Debug\netcoreapp3.1\CircleApp.AssemblyInfoInputs.cache
+C:\Users\ZParr\source\repos\CircleApp\CircleApp\obj\Debug\netcoreapp3.1\CircleApp.AssemblyInfo.cs
+C:\Users\ZParr\source\repos\CircleApp\CircleApp\obj\Debug\netcoreapp3.1\CircleApp.csproj.CoreCompileInputs.cache
+C:\Users\ZParr\source\repos\CircleApp\CircleApp\bin\Debug\netcoreapp3.1\CircleApp.exe
+C:\Users\ZParr\source\repos\CircleApp\CircleApp\bin\Debug\netcoreapp3.1\CircleApp.deps.json
+C:\Users\ZParr\source\repos\CircleApp\CircleApp\bin\Debug\netcoreapp3.1\CircleApp.runtimeconfig.json
+C:\Users\ZParr\source\repos\CircleApp\CircleApp\bin\Debug\netcoreapp3.1\CircleApp.runtimeconfig.dev.json
+C:\Users\ZParr\source\repos\CircleApp\CircleApp\bin\Debug\netcoreapp3.1\CircleApp.dll
+C:\Users\ZParr\source\repos\CircleApp\CircleApp\bin\Debug\netcoreapp3.1\CircleApp.pdb
+C:\Users\ZParr\source\repos\CircleApp\CircleApp\obj\Debug\netcoreapp3.1\CircleApp.dll
+C:\Users\ZParr\source\repos\CircleApp\CircleApp\obj\Debug\netcoreapp3.1\CircleApp.pdb
+C:\Users\ZParr\source\repos\CircleApp\CircleApp\obj\Debug\netcoreapp3.1\CircleApp.genruntimeconfig.cache
